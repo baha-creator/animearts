@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>art</title>
-  <style>
-    body { font-family: Arial; background: #f0f0f0; margin: 10; padding: 40px; }
-    header { background: #007bff; color: pink; padding: 90px; border-radius: 80px; }
-    main { margin-top: 200px; }
-    footer { margin-top: 60px; color: #333; }
-  </style>
 </head>
 <body>
   <header>
