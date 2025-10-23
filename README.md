@@ -15,7 +15,7 @@
     <h1>hi, my first website</h1>
   </header>
   <main>
-    <p>Здесь будет контент, картинки и ссылки.</p>
+    <p>https://drive.google.com/file/d/1GxxVSgq28R99Si7mUP5smshqqRiP2quQ/view?usp=drivesdk.</p>
   </main>
   <footer>
     &copy; 2025 Мой сайт
